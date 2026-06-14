@@ -71,7 +71,5 @@ To build an intelligent recommendation system that:
 ```bash
 pip install -r requirements.txt
 
-### 2️⃣ Run Streamlit app
-```bash
-streamlit run app.py
+
 
