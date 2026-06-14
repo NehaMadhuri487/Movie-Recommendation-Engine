@@ -67,9 +67,10 @@ To build an intelligent recommendation system that:
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Install dependencies
+### 1️⃣ Install dependencies and run the file
 ```bash
 pip install -r requirements.txt
+streamlit app.py
 
 
 
