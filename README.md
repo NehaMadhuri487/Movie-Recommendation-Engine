@@ -70,3 +70,8 @@ To build an intelligent recommendation system that:
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
+### 2️⃣ Run Streamlit app
+```bash
+streamlit run app.py
+
